@@ -4,7 +4,7 @@
 
 ## Dataset Description
 #### Database: COVID19_EPIDEMIOLOGICAL_DATA 
-For this project, our team chose the COVID-19 Epidemiological dataset from the Snowflake Marketplace. We were drawn to it because it’s real-world data that has impacted numerous people across the world, so it feels more meaningful to work with compared to something more abstract. It also covers countries across the globe and tracks how things changed over time, which gives us a lot to explore and analyze when creating our questions and charts. We also liked that the dataset is fairly large and detailed. It’s not something where you can just pull one column and get an answer right away. Instead, we are able to look at trends, compare different regions, and really dig into the data.
+For this project, I chose the COVID-19 Epidemiological dataset from the Snowflake Marketplace. We were drawn to it because it’s real-world data that has impacted numerous people across the world, so it feels more meaningful to work with compared to something more abstract. It also covers countries across the globe and tracks how things changed over time, which gives us a lot to explore and analyze when creating our questions and charts. We also liked that the dataset is fairly large and detailed. It’s not something where you can just pull one column and get an answer right away. Instead, we are able to look at trends, compare different regions, and really dig into the data.
 
 #### Table: WHO_TIMESERIES
 - 10 columns
