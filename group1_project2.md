@@ -1,13 +1,5 @@
 
-# Group 1 Project 2
-
-### Team Members
-#### Lauren Harville - @4610LaurenGit
-#### Andrew Heighton - @AndrewHeighton
-#### Asanti Kumera - @asanti00
-#### Aidan Pfeiffer - @abp80036
-#### Doc Rush - @docrush
-#### Violet Sofish - @VioletSofish
+# Project 2
 
 
 ## Dataset Description
